@@ -6,7 +6,7 @@ My development is saved in a private repository. My files here are to present th
 # Note
 In the Scripting API @minecraft/vanilla-data modules, usage of the vanilla data and Microsoft's copyrights belong to them. I hold no control of such files, and they are for pure reference by my modules.
 
-If you use Vibrant Visuals, this pack will not be compatible.
+If you use Vibrant Visuals, this pack will not be compatible.[as of now. There are plans to add it, but it would be done so after the first release]
 
 This pack stops development at Alpha. It might contain bugs, errors or unintended visuals. If you would like to correct errors from the source code within the MCAddon, you can open a pull request to ```development-reference``` branch
 # Prequisites
