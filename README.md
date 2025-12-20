@@ -1,7 +1,7 @@
 # Features-Bedrock
 This is the Features-Bedrock add-on for Bedrock Minecraft system.
 
-My development is saved in a private repository. My files here are for public use only. You can find the MCAddon in the releases when one comes.
+My development is saved in a private repository. My files here are to present this addon to the public. You can find the MCAddon in the releases when one comes.
 
 # Note
 In the Scripting API @minecraft/vanilla-data modules, usage of the vanilla data and Microsoft's copyrights belong to them. I hold no control of such files, and they are for pure reference by my modules.
