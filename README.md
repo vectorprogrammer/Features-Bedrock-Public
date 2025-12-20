@@ -8,7 +8,7 @@ In the Scripting API @minecraft/vanilla-data modules, usage of the vanilla data 
 
 If you use Vibrant Visuals, this pack will not be compatible.[as of now. There are plans to add it, but it would be done so after the first release]
 
-This pack stops development at Alpha. It might contain bugs, errors or unintended visuals. If you would like to correct errors from the source code within the MCAddon, you can open a pull request to ```development-reference``` branch
+This pack stops development at Alpha. It might contain bugs, errors or unintended visuals. If you would like to correct errors, features that are not what they intended to be, or any other problem from the source code within the MCAddon, you can open a pull request to ```development-reference``` branch.
 # Prequisites
 
 You also need to enable Beta APIs for some features. If you don't, some features, like the Ore Regeneration module, will not be available. All modules required with the Beta APIs can be seen in the /scripts folder.
